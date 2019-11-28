@@ -1,0 +1,5 @@
+Old Version 
+---------------------------------------
+In this project some Realtime Database Actions. That is the mobile device acts as a Security Guard. By Using Some Artificial Intelligence and Machine Learning Technique. 
+
+In the case of an Emergency situation the device detects the situation and Informs the relevant agency and neighbors with their location and informs their brief summary of that situation.
